@@ -1,0 +1,21 @@
+{
+    "version": "0.0.1",
+    "description": "perf chart",
+    "main": "perfChart",
+    "keywords": ["performance", "chart"],
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:p"
+    },
+    "contributors": "puritys.chen@outlook.com",
+    "homepage": "http://",
+    "license" : "MIT",
+    "name" : "perfChart",
+    "files": [""],
+    "scripts": {
+        "test": "mocha tests"
+    },
+    "dependencies": {
+       "canvas": "^1.2.1"
+    }
+}

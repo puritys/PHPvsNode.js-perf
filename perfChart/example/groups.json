@@ -1,0 +1,21 @@
+{
+    "title": "PHP vs Node.js",
+    "unit": "ms",
+    "type": "group",
+    "groups": [
+        {"name": "PHP"},
+        {"name": "Node.js"}
+    ],
+    "records": [
+        {
+            "name": "echo",
+            "value": ["10.5", "2.3"],
+            "average": ["10.5", "2.3"]
+        },
+        {
+            "name": "var array",
+            "value": ["9.3", "29,1"],
+            "average": ["9.3", "29.1"]
+        }
+    ]
+}
